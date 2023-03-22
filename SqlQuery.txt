@@ -1,0 +1,3 @@
+select product_name, category_name
+from product left join category 
+using(category_id)
