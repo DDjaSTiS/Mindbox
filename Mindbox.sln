@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureLib", "MindboxTest\FigureLib.csproj", "{FAF55762-8777-4531-AA42-C8822F314B3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{BFAA22D6-8A46-4952-8E78-C64CBB9990F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF55762-8777-4531-AA42-C8822F314B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF55762-8777-4531-AA42-C8822F314B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF55762-8777-4531-AA42-C8822F314B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF55762-8777-4531-AA42-C8822F314B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAA22D6-8A46-4952-8E78-C64CBB9990F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAA22D6-8A46-4952-8E78-C64CBB9990F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAA22D6-8A46-4952-8E78-C64CBB9990F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAA22D6-8A46-4952-8E78-C64CBB9990F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EAA4F0A-2332-4F73-A8D2-79C4896BE523}
+	EndGlobalSection
+EndGlobal
